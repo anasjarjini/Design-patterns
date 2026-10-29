@@ -1,0 +1,2 @@
+mvn -pl singleton compile
+java -cp singleton/target/classes com.anas.singleton.App
